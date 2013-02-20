@@ -7,4 +7,5 @@ Thanks in advanced!
 Regards,
 CurlyMoo
 
-ps. If you have any questions, you can contact me on development@xbian.org or the xbian.org forum.
+ps I. If you have any questions, you can contact me on development@xbian.org or the xbian.org forum.
+ps II. This not only counts for our main 'xbian' repo, but for all repo's you might have forked from us.
