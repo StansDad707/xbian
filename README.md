@@ -6,3 +6,5 @@ Thanks in advanced!
 
 Regards,
 CurlyMoo
+
+ps. If you have any questions, you can contact me on development@xbian.org or the xbian.org forum.
